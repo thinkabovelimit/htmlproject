@@ -1,0 +1,39 @@
+td{
+  background-color: black;
+  align-items: center;
+  width:100px;
+  height:400px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  border: 6px solid white;
+
+}
+h1{
+  text-align: center;
+  font-family: 'Knewave', cursive;
+}
+#one{
+  background-color:  #95a892;
+
+}
+#two{
+  background-color:  #e8e9c9;
+
+}
+#three{
+  background-color:  #3a5a40;
+
+}
+#four{
+  background-color:  #454545;
+
+}
+#five{
+  background-color:  #6d5959;
+
+}
+.art{
+  margin: auto;
+}
